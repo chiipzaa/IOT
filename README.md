@@ -1,5 +1,3 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/chiipzaa/IOT/total)
-
 # IOT
 
 ฝึกหัด และปฏิบัติ เรียนรู้การใช้งานจริงผ่านการทดลองด้วยอุปกรณ์ IOT และเชื่อมต่อผ่าน NETPIE
