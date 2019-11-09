@@ -1,4 +1,4 @@
-![GitHub Releases](https://img.shields.io/github/downloads/chiipzaa/IOT/latest/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/chiipzaa/IOT/total)
 
 # IOT
 
